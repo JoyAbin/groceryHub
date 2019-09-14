@@ -8,6 +8,15 @@
   <name>groceryHub Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
+  	<!-- Java EE Api -->
+		<dependency>
+			<groupId>javax</groupId>
+			<artifactId>javaee-api</artifactId>
+			<version>7.0</version>
+			<scope>provided</scope>
+		</dependency>
+		
+  
     <dependency>
       <groupId>junit</groupId>
       <artifactId>junit</artifactId>
