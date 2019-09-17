@@ -4,7 +4,7 @@
 
       <div class="col-lg-3">
 
-        <h1 class="my-4">groceryHub</h1>
+        <h1 class="my-4">stationery</h1>
         <div class="list-group">
           <a href="#" class="list-group-item">Category 1</a>
           <a href="#" class="list-group-item">Category 2</a>

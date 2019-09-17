@@ -1,11 +1,11 @@
 <div class="footer1">
 			<div class="footer-content">
 				<div class="footer-section about">
-						<h2 class="logo-text">groceryHub</h2>
-						<p>Grocery Hub is an online food and grocery store<br>with over 5,000 product and over 500 brands</p>
+						<h2 class="logo-text">happyPaper</h2>
+						<p>happyPaper is an online stationery store<br>with over 5,000 product and over 500 brands</p>
 						<div class="contact">
 							<span><i class="fas fa-phone-square"></i>&nbsp; 123-456-789</span>
-							<span><i class="far fa-envelope"></i>&nbsp; info@groceryHub.com</span>
+							<span><i class="far fa-envelope"></i>&nbsp; info@happyPaper.com</span>
 						</div>
 						<div class="socials">
 					  	&nbsp;&nbsp;&nbsp;<a href="#"><i class="fa fa-facebook-official"></i></a>&nbsp;
