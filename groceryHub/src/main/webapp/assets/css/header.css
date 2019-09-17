@@ -1,0 +1,75 @@
+
+/*=========Header section=========*/
+#header {
+	background-color: #819281; /*=========cowdung green color=========*/
+	height: 100px;
+	border-radius: 2px;
+	position: fixed;
+	top: 0;
+	width: 100%
+}
+
+/*=========Navigation Bar section=========*/
+#navibar ul {
+	border-radius: 2px;
+	text-align: right;
+	list-style-type: none;
+	font-size: 15px;
+	margin: 0px;
+	margin-right: 30px;
+	padding: 20px;
+	padding-top: 0px;
+}
+
+#navibar ul li {
+	display: inline;
+}
+
+#navibar ul li a {
+	background-color: #819281;
+	color: white;
+	margin: 20px;
+	border-radius: 2px;
+	text-align: center;
+	text-decoration: none;
+}
+
+#navibar ul li a:hover {
+	background-color: white;
+	color: #819281;
+}
+/*=========Heading altering section=========*/
+h1 {
+	color: #e5e4d7; /*=========main heading silver color=========*/
+	font-size: 200%;
+	font-family: "century gothic", Arial;
+	margin: 0px;
+	margin-right: 50px;
+	float: left;
+	position: relative; /*==vertically align==*/
+	top: 50%;
+	-webkit-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	transform: translateY(-50%);
+}
+
+.search {
+	color: #e5e4d7; /*=========main heading silver color=========*/
+	font-size: 150%;
+	font-family: "century gothic", Arial;
+	border-radius: 5px;
+	margin-left: 20px; /*==vertically align==*/
+	position: relative;
+	top: 50%;
+	-webkit-transform: translateY(-50%);
+	-ms-transform: translateY(-50%);
+	transform: translateY(-50%);
+}
+
+/*=========Logo appending=========*/
+.imglogo {
+	max-width: 100%;
+	/*========float:right : is for appending o right side=========*/
+	max-height: 100%;
+	float: left;
+}
